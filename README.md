@@ -1,4 +1,4 @@
-# Flask / MongoDB backend API
+# Flask and MongoDB backend API
 
 ## Introduction
 This repo serves as a backend API for [Wechat Miniprogram Stock repo](https://github.com/kongfanhe/stock_weixin_miniprogram). It also requires the stock prediction results from [this repo](https://github.com/kongfanhe/stock_lstm_tensorflow). Make sure you have read the previously mentioned repos and continue.
